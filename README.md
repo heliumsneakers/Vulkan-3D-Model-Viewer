@@ -1,4 +1,4 @@
-#Vulkan Renderer#
+#Vulkan Renderer
 
 This is a single C++ file renderer built for me to learn how Vulkan works.
 
